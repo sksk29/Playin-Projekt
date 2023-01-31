@@ -1,0 +1,132 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Playin
+build_property.RootNamespace = Playin
+build_property.ProjectDir = c:\Users\janus\OneDrive\Pulpit\Studia projekty\Projekt studia finalny kuciapa\Playin\Playin\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\janus\OneDrive\Pulpit\Studia projekty\Projekt studia finalny kuciapa\Playin\Playin
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/backuppp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YmFja3VwcHBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Pages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Esports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwb3J0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Esports/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwb3J0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Esports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwb3J0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Esports/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwb3J0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Esports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwb3J0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/GameComments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZUNvbW1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/GameComments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZUNvbW1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/GameComments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZUNvbW1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/GameComments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZUNvbW1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/GameComments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZUNvbW1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Games/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Games/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Games/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Games/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Games/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Shared/_CommentBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db21tZW50Qm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/janus/OneDrive/Pulpit/Studia projekty/Projekt studia finalny kuciapa/Playin/Playin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ipkc4do5am

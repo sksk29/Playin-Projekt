@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1><br /><br />
+    <h3 class="display-6">Site for gamers is waiting for gamers! <br /> Check which games you should play, and help the others with your knowledge about some of them.</h3>
+    <div>
+        <h2>Id</h2> - <h2 id="stdId"></h2>
+        <h2>Nazwa</h2> - <h2 id="stdNazwa"></h2>
+        <h2>Email</h2> - <h2 id="stdEmail"></h2>
+    </div>
+</div>
+<script>
+    function BtnClick(){
+        $.ajax({
+            url:"/Pulpit/Playin/Pages/Logout",
+            method: "GET",
+            success: function (data){
+
+                console.log(data);
+                data = JSON.parse(data);
+                $("#stdId").text(data.Id);
+                $("#stdNazwa").text(data.Nazwa);
+                $("#stdEmail").text(data.Email);
+            },
+            error: function (err){
+                console.error(err);
+            }
+        })
+    }
+</script>

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Playin.Models.Esport>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<a asp-action="Create">Add new article</a>
+
+@foreach (var item in Model) {
+
+<h1>@Html.DisplayFor(modelItem => item.Title)</h1><br /><br />
+<p>@Html.DisplayFor(modelItem => item.Text)</p><br />
+<h4>@Html.DisplayFor(modelItem => item.PublishedDate)</h4>
+<div><a asp-action="Details" asp-route-id="@item.Id">Details</a></div>
+}
+

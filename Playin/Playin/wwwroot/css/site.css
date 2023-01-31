@@ -1,0 +1,71 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.dl-horizontal dt{
+    white-space: normal;
+}
+
+input,
+select,
+textarea {
+    max-width:200px;
+}
+
+.commentBox {
+    background-color: #efefef;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.star {
+    background-image: url('/image/star.png');
+    min-width: 30px;
+    min-height: 30px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.starN {
+    background-image: url('/image/star.png');
+    min-width: 30px;
+    min-height: 30px;
+    display: inline-block;
+}
+
+.emptystar {
+    background-image: url('/image/emptystar.png');
+    min-width: 30px;
+    min-height: 30px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.emptystarN {
+    background-image: url('/image/emptystar.png');
+    min-width: 30px;
+    min-height: 30px;
+    display: inline-block;
+}
+
